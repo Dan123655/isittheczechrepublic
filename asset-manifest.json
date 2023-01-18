@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dan123655.github.io/isittheczechrepublic/static/css/main.208e2d00.css",
-    "main.js": "/dan123655.github.io/isittheczechrepublic/static/js/main.2da40cfb.js",
-    "index.html": "/dan123655.github.io/isittheczechrepublic/index.html",
-    "main.208e2d00.css.map": "/dan123655.github.io/isittheczechrepublic/static/css/main.208e2d00.css.map",
-    "main.2da40cfb.js.map": "/dan123655.github.io/isittheczechrepublic/static/js/main.2da40cfb.js.map"
+    "main.css": "/isittheczechrepublic/static/css/main.208e2d00.css",
+    "main.js": "/isittheczechrepublic/static/js/main.2da40cfb.js",
+    "index.html": "/isittheczechrepublic/index.html",
+    "main.208e2d00.css.map": "/isittheczechrepublic/static/css/main.208e2d00.css.map",
+    "main.2da40cfb.js.map": "/isittheczechrepublic/static/js/main.2da40cfb.js.map"
   },
   "entrypoints": [
     "static/css/main.208e2d00.css",
