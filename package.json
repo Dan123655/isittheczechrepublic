@@ -1,6 +1,6 @@
 {
   "name": "isittheczechrepublic",
-  "homepage": "https:dan123655.github.io/isittheczechrepublic",
+  "homepage": "https://dan123655.github.io/isittheczechrepublic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -58,6 +58,7 @@
     "eslint-plugin-n": "^15.6.1",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.32.1",
+    "gh-pages": "^4.0.0",
     "typescript": "^4.9.4"
   }
 }

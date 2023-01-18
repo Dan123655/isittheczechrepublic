@@ -17,7 +17,7 @@ export const Popup = (countryName: string): string => {
         "This one? Really?"
     ]
     if (countryName === "Czech Republic") {
-        return "FINALLY!"
+        return "You got it!"
     } else {
         return negations[Math.floor(Math.random() * 11)]
     }
